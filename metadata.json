@@ -1,0 +1,10 @@
+{
+  "name": "Remix MediConnect - Emergency Ambulance Locator \u0026 Real-Time Tracking",
+  "description": "Healthcare care coordination platform featuring multi-role authentication (Patient portal vs Hospital admin), live on-duty hospital doctors \u0026 specialists roster, real-time hospital bed \u0026 ICU capacity registry, 24/7 GPS emergency ambulance locator with equipment telemetry, and live driver tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

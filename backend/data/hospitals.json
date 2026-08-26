@@ -1,0 +1,434 @@
+[
+  {
+    "id": "hosp-vidyavihar-1",
+    "name": "K. J. Somaiya Hospital & Research Centre",
+    "address": "Somaiya Ayurvihar Complex, Eastern Express Highway, Vidyavihar East, Mumbai - 400077",
+    "location": "Vidyavihar",
+    "distanceKm": 0.6,
+    "etaMinutes": 3,
+    "icuBedsAvailable": 24,
+    "ventilatorsAvailable": 15,
+    "emergencyTraumaLevel": "Level 1 Apex Multi-Specialty & Critical Care",
+    "contactNumber": "+91 22 5095 4700",
+    "coords": {
+      "lat": 19.0735,
+      "lng": 72.8998
+    }
+  },
+  {
+    "id": "hosp-vidyavihar-2",
+    "name": "Somaiya Super Speciality Hospital (Ayurvihar)",
+    "address": "Somaiya Hospital Road, Vidyavihar West, Mumbai - 400086",
+    "location": "Vidyavihar",
+    "distanceKm": 1.1,
+    "etaMinutes": 4,
+    "icuBedsAvailable": 16,
+    "ventilatorsAvailable": 10,
+    "emergencyTraumaLevel": "Advanced Cardiac & Trauma Care",
+    "contactNumber": "+91 22 5095 4800",
+    "coords": {
+      "lat": 19.0762,
+      "lng": 72.8945
+    }
+  },
+  {
+    "id": "hosp-vidyavihar-3",
+    "name": "Vidyavihar Critical Care & Emergency Hospital",
+    "address": "Station Road, Near Vidyavihar Railway Station, Vidyavihar West, Mumbai - 400086",
+    "location": "Vidyavihar",
+    "distanceKm": 1.4,
+    "etaMinutes": 5,
+    "icuBedsAvailable": 8,
+    "ventilatorsAvailable": 5,
+    "emergencyTraumaLevel": "Level 2 Emergency Response Center",
+    "contactNumber": "+91 22 2511 3340",
+    "coords": {
+      "lat": 19.0792,
+      "lng": 72.8965
+    }
+  },
+  {
+    "id": "hosp-ghatkopar-1",
+    "name": "Rajawadi Municipal General Hospital",
+    "address": "Chittaranjan Nagar, Rajawadi, Ghatkopar East, Mumbai - 400077",
+    "location": "Ghatkopar",
+    "distanceKm": 1.5,
+    "etaMinutes": 5,
+    "icuBedsAvailable": 32,
+    "ventilatorsAvailable": 18,
+    "emergencyTraumaLevel": "Municipal Apex Trauma & Emergency Center",
+    "contactNumber": "+91 22 2511 5066",
+    "coords": {
+      "lat": 19.0778,
+      "lng": 72.9055
+    }
+  },
+  {
+    "id": "hosp-ghatkopar-2",
+    "name": "Parakh Hospital & Research Centre",
+    "address": "Khokhani Lane, Near Ghatkopar Station, Ghatkopar East, Mumbai - 400077",
+    "location": "Ghatkopar",
+    "distanceKm": 1.9,
+    "etaMinutes": 6,
+    "icuBedsAvailable": 14,
+    "ventilatorsAvailable": 8,
+    "emergencyTraumaLevel": "Multi-Specialty Critical Care Center",
+    "contactNumber": "+91 22 2501 8000",
+    "coords": {
+      "lat": 19.0855,
+      "lng": 72.9082
+    }
+  },
+  {
+    "id": "hosp-ghatkopar-3",
+    "name": "Sarvodaya Hospital & ICCU",
+    "address": "LBS Marg, Near Sarvodaya Parivar, Ghatkopar West, Mumbai - 400086",
+    "location": "Ghatkopar",
+    "distanceKm": 2.3,
+    "etaMinutes": 7,
+    "icuBedsAvailable": 20,
+    "ventilatorsAvailable": 12,
+    "emergencyTraumaLevel": "Level 1 Emergency & Cardiac ICU",
+    "contactNumber": "+91 22 2515 2200",
+    "coords": {
+      "lat": 19.0912,
+      "lng": 72.915
+    }
+  },
+  {
+    "id": "hosp-ghatkopar-4",
+    "name": "Zynova Shalby Hospital",
+    "address": "Zynova Shalby Building, LBS Marg, Ghatkopar West, Mumbai - 400086",
+    "location": "Ghatkopar",
+    "distanceKm": 2.8,
+    "etaMinutes": 8,
+    "icuBedsAvailable": 11,
+    "ventilatorsAvailable": 6,
+    "emergencyTraumaLevel": "Multi-Speciality Joint & Emergency Care",
+    "contactNumber": "+91 22 6828 2828",
+    "coords": {
+      "lat": 19.0945,
+      "lng": 72.9125
+    }
+  },
+  {
+    "id": "hosp-vikhroli-1",
+    "name": "Godrej Memorial Hospital",
+    "address": "Pirojshanagar, Eastern Express Highway, Vikhroli East, Mumbai - 400079",
+    "location": "Vikhroli",
+    "distanceKm": 1.8,
+    "etaMinutes": 5,
+    "icuBedsAvailable": 24,
+    "ventilatorsAvailable": 14,
+    "emergencyTraumaLevel": "Level 1 Comprehensive Trauma & Critical Care",
+    "contactNumber": "+91 22 6641 7100",
+    "coords": {
+      "lat": 19.1025,
+      "lng": 72.932
+    }
+  },
+  {
+    "id": "hosp-vikhroli-2",
+    "name": "Samarth Hospital & Intensive Care",
+    "address": "Tagore Nagar, Vikhroli East, Mumbai - 400083",
+    "location": "Vikhroli",
+    "distanceKm": 2.2,
+    "etaMinutes": 6,
+    "icuBedsAvailable": 7,
+    "ventilatorsAvailable": 4,
+    "emergencyTraumaLevel": "24/7 Emergency & Critical Care Unit",
+    "contactNumber": "+91 22 2574 1212",
+    "coords": {
+      "lat": 19.108,
+      "lng": 72.936
+    }
+  },
+  {
+    "id": "hosp-vikhroli-3",
+    "name": "LH Hiranandani Health Post & Vikhroli Critical Clinic",
+    "address": "Station Road, Vikhroli West, Mumbai - 400079",
+    "location": "Vikhroli",
+    "distanceKm": 2.6,
+    "etaMinutes": 7,
+    "icuBedsAvailable": 8,
+    "ventilatorsAvailable": 3,
+    "emergencyTraumaLevel": "Level 2 Acute Emergency Triage",
+    "contactNumber": "+91 22 2578 4400",
+    "coords": {
+      "lat": 19.113,
+      "lng": 72.924
+    }
+  },
+  {
+    "id": "hosp-kurla-1",
+    "name": "Kohinoor Hospital",
+    "address": "Kirol Road, Off LBS Marg, Kurla West, Mumbai - 400070",
+    "location": "Kurla",
+    "distanceKm": 1.2,
+    "etaMinutes": 4,
+    "icuBedsAvailable": 28,
+    "ventilatorsAvailable": 16,
+    "emergencyTraumaLevel": "NABH Accredited Multi-Specialty Trauma Care",
+    "contactNumber": "+91 22 6755 6755",
+    "coords": {
+      "lat": 19.071,
+      "lng": 72.887
+    }
+  },
+  {
+    "id": "hosp-kurla-2",
+    "name": "K. B. Bhabha Municipal General Hospital",
+    "address": "Belgrami Road, Kurla West, Mumbai - 400070",
+    "location": "Kurla",
+    "distanceKm": 1.7,
+    "etaMinutes": 5,
+    "icuBedsAvailable": 16,
+    "ventilatorsAvailable": 9,
+    "emergencyTraumaLevel": "Municipal Level 1 Emergency Trauma Unit",
+    "contactNumber": "+91 22 2650 0241",
+    "coords": {
+      "lat": 19.0645,
+      "lng": 72.881
+    }
+  },
+  {
+    "id": "hosp-kurla-3",
+    "name": "Aryan Hospital & Medical Centre",
+    "address": "S. G. Barve Marg, Kurla East, Mumbai - 400024",
+    "location": "Kurla",
+    "distanceKm": 2.1,
+    "etaMinutes": 6,
+    "icuBedsAvailable": 10,
+    "ventilatorsAvailable": 5,
+    "emergencyTraumaLevel": "Critical Care & Emergency Unit",
+    "contactNumber": "+91 22 2522 9000",
+    "coords": {
+      "lat": 19.062,
+      "lng": 72.889
+    }
+  },
+  {
+    "id": "hosp-kurla-4",
+    "name": "City Hospital & ICU Kurla",
+    "address": "Near Kurla Railway Station, Kurla West, Mumbai - 400070",
+    "location": "Kurla",
+    "distanceKm": 2.4,
+    "etaMinutes": 7,
+    "icuBedsAvailable": 6,
+    "ventilatorsAvailable": 3,
+    "emergencyTraumaLevel": "Level 2 Trauma & Stroke Center",
+    "contactNumber": "+91 22 2503 1188",
+    "coords": {
+      "lat": 19.0675,
+      "lng": 72.8835
+    }
+  },
+  {
+    "id": "hosp-powai-1",
+    "name": "Dr. L. H. Hiranandani Hospital",
+    "address": "Hillside Avenue, Hiranandani Gardens, Powai, Mumbai - 400076",
+    "location": "Powai",
+    "distanceKm": 1.0,
+    "etaMinutes": 3,
+    "icuBedsAvailable": 30,
+    "ventilatorsAvailable": 20,
+    "emergencyTraumaLevel": "Level 1 Apex Tertiary Trauma & Transplant Center",
+    "contactNumber": "+91 22 2576 3300",
+    "coords": {
+      "lat": 19.1215,
+      "lng": 72.909
+    }
+  },
+  {
+    "id": "hosp-powai-2",
+    "name": "IIT Bombay Hospital",
+    "address": "IIT Bombay Campus, Main Gate Road, Powai, Mumbai - 400076",
+    "location": "Powai",
+    "distanceKm": 2.1,
+    "etaMinutes": 6,
+    "icuBedsAvailable": 12,
+    "ventilatorsAvailable": 6,
+    "emergencyTraumaLevel": "Campus Emergency & Critical Care Facility",
+    "contactNumber": "+91 22 2576 7051",
+    "coords": {
+      "lat": 19.133,
+      "lng": 72.913
+    }
+  },
+  {
+    "id": "hosp-powai-3",
+    "name": "Powai Polyclinic & Critical Care Hospital",
+    "address": "Saki Vihar Road, Near Powai Lake, Powai, Mumbai - 400072",
+    "location": "Powai",
+    "distanceKm": 2.5,
+    "etaMinutes": 7,
+    "icuBedsAvailable": 8,
+    "ventilatorsAvailable": 4,
+    "emergencyTraumaLevel": "Level 2 Emergency Care & Cardiac HDU",
+    "contactNumber": "+91 22 2857 0044",
+    "coords": {
+      "lat": 19.114,
+      "lng": 72.898
+    }
+  },
+  {
+    "id": "hosp-1",
+    "name": "Lilavati Hospital & Research Centre",
+    "address": "A-791, Bandra Reclamation, Bandra West, Mumbai",
+    "location": "Mumbai",
+    "distanceKm": 3.8,
+    "etaMinutes": 11,
+    "icuBedsAvailable": 14,
+    "ventilatorsAvailable": 9,
+    "emergencyTraumaLevel": "Level 1 Trauma Center",
+    "contactNumber": "+91 22 2675 1000",
+    "coords": {
+      "lat": 19.0505,
+      "lng": 72.8288
+    }
+  },
+  {
+    "id": "hosp-2",
+    "name": "Hinduja National Hospital",
+    "address": "Veer Savarkar Marg, Mahim, Mumbai",
+    "location": "Mumbai",
+    "distanceKm": 4.4,
+    "etaMinutes": 13,
+    "icuBedsAvailable": 8,
+    "ventilatorsAvailable": 6,
+    "emergencyTraumaLevel": "Level 1 Critical Care",
+    "contactNumber": "+91 22 2445 1515",
+    "coords": {
+      "lat": 19.033,
+      "lng": 72.8397
+    }
+  },
+  {
+    "id": "hosp-3",
+    "name": "Kokilaben Dhirubhai Ambani Hospital",
+    "address": "Rao Saheb Achutrao Patwardhan Marg, Andheri West, Mumbai",
+    "location": "Mumbai",
+    "distanceKm": 6.2,
+    "etaMinutes": 15,
+    "icuBedsAvailable": 22,
+    "ventilatorsAvailable": 14,
+    "emergencyTraumaLevel": "Comprehensive Multi-Specialty Trauma",
+    "contactNumber": "+91 22 4269 6969",
+    "coords": {
+      "lat": 19.1311,
+      "lng": 72.8258
+    }
+  },
+  {
+    "id": "hosp-4",
+    "name": "KEM Hospital & Emergency Medical Center",
+    "address": "Acharya Donde Marg, Parel, Mumbai",
+    "location": "Mumbai",
+    "distanceKm": 7.8,
+    "etaMinutes": 18,
+    "icuBedsAvailable": 19,
+    "ventilatorsAvailable": 11,
+    "emergencyTraumaLevel": "Apex State Trauma Center",
+    "contactNumber": "+91 22 2410 7000",
+    "coords": {
+      "lat": 19.0028,
+      "lng": 72.8428
+    }
+  },
+  {
+    "id": "delhi-1",
+    "name": "AIIMS (All India Institute of Medical Sciences)",
+    "address": "Sri Aurobindo Marg, Ansari Nagar, New Delhi",
+    "location": "Delhi",
+    "distanceKm": 2.1,
+    "etaMinutes": 7,
+    "icuBedsAvailable": 34,
+    "ventilatorsAvailable": 20,
+    "emergencyTraumaLevel": "Level 1 Apex Trauma",
+    "contactNumber": "+91 11 2658 8500",
+    "coords": {
+      "lat": 28.5672,
+      "lng": 77.21
+    }
+  },
+  {
+    "id": "delhi-2",
+    "name": "Max Super Speciality Hospital, Saket",
+    "address": "1, 2, Press Enclave Marg, Saket, New Delhi",
+    "location": "Delhi",
+    "distanceKm": 4.5,
+    "etaMinutes": 12,
+    "icuBedsAvailable": 12,
+    "ventilatorsAvailable": 8,
+    "emergencyTraumaLevel": "Level 1 Emergency Center",
+    "contactNumber": "+91 11 2651 5050",
+    "coords": {
+      "lat": 28.5273,
+      "lng": 77.2144
+    }
+  },
+  {
+    "id": "blr-1",
+    "name": "Manipal Hospital HAL Airport Road",
+    "address": "98, HAL Old Airport Rd, Kodihalli, Bengaluru",
+    "location": "Bengaluru",
+    "distanceKm": 2.4,
+    "etaMinutes": 8,
+    "icuBedsAvailable": 16,
+    "ventilatorsAvailable": 10,
+    "emergencyTraumaLevel": "Level 1 Comprehensive Care",
+    "contactNumber": "+91 80 2502 4444",
+    "coords": {
+      "lat": 12.9592,
+      "lng": 77.6499
+    }
+  },
+  {
+    "id": "blr-2",
+    "name": "Apollo Hospital Bannerghatta",
+    "address": "154/11, Opp IIMB, Bannerghatta Rd, Bengaluru",
+    "location": "Bengaluru",
+    "distanceKm": 5.1,
+    "etaMinutes": 14,
+    "icuBedsAvailable": 11,
+    "ventilatorsAvailable": 7,
+    "emergencyTraumaLevel": "Tertiary Emergency Center",
+    "contactNumber": "+91 80 2630 4050",
+    "coords": {
+      "lat": 12.8958,
+      "lng": 77.5986
+    }
+  },
+  {
+    "id": "hyd-1",
+    "name": "Apollo Health City, Jubilee Hills",
+    "address": "Road No. 72, Jubilee Hills, Hyderabad",
+    "location": "Hyderabad",
+    "distanceKm": 3.0,
+    "etaMinutes": 9,
+    "icuBedsAvailable": 18,
+    "ventilatorsAvailable": 12,
+    "emergencyTraumaLevel": "Level 1 Trauma Care",
+    "contactNumber": "+91 40 2360 7777",
+    "coords": {
+      "lat": 17.4265,
+      "lng": 78.4118
+    }
+  },
+  {
+    "id": "pune-1",
+    "name": "Ruby Hall Clinic, Sassoon Road",
+    "address": "40, Sassoon Rd, Sangamvadi, Pune",
+    "location": "Pune",
+    "distanceKm": 2.9,
+    "etaMinutes": 8,
+    "icuBedsAvailable": 15,
+    "ventilatorsAvailable": 9,
+    "emergencyTraumaLevel": "Level 1 Trauma Care",
+    "contactNumber": "+91 20 6645 5100",
+    "coords": {
+      "lat": 18.5308,
+      "lng": 73.877
+    }
+  }
+]
