@@ -4,8 +4,10 @@ import dotenv from 'dotenv';
 import { GoogleGenAI, Type } from '@google/genai';
 import { createServer as createViteServer } from 'vite';
 import { hospitalsRouter } from './routes/hospitals';
+import { initializeDatabase } from './backend/db/database';
 
 dotenv.config();
+initializeDatabase();
 
 const app = express();
 const PORT = 3000;
