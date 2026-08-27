@@ -1,8 +1,0 @@
-{
-  "name": "Remix MediConnect Operations Command Center",
-  "description": "AI-powered hospital operations dashboard for CityCare Multi-Speciality Hospital to monitor patient flow, ICU/ER bed capacity, critical equipment (Oxygen, OTs, Dialysis, ECMO, Ventilators, CT/MRI), ML demand predictions, bottlenecks, and automated smart resource prioritization.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
