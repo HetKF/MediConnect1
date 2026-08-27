@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@keyframes syringeBob {
+  0%, 100% {
+    transform: rotate(45deg) translateY(0px);
+  }
+  50% {
+    transform: rotate(45deg) translateY(-2px);
+  }
+}
+
+@keyframes needleDropDrip {
+  0% {
+    opacity: 0;
+    transform: translate(-8px, -12px) scale(0.2);
+  }
+  20% {
+    opacity: 1;
+    transform: translate(-2px, -3px) scale(0.75);
+  }
+  45% {
+    opacity: 1;
+    transform: translate(0px, 2px) scale(1);
+  }
+  75% {
+    opacity: 1;
+    transform: translate(0px, 12px) scale(1.05);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(0px, 24px) scale(0.5);
+  }
+}
+
+@keyframes needleDropTrail {
+  0%, 40% {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.2);
+  }
+  70% {
+    opacity: 0.85;
+    transform: translateY(6px) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(22px) scale(0.3);
+  }
+}
